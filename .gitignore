@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.apk
+*.aab
+*.mp4
+.env
+.env*.local
+*.jks
+*.keystore
+android/
+ios/
+SETUP.md
+VSCODE_PROMPT.md

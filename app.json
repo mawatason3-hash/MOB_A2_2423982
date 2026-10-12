@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "SolomonPortfolio",
+    "slug": "solomon-portfolio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.solomonkamara.portfolio",
+      "versionCode": 1,
+      "permissions": [
+        "android.permission.CAMERA"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Choose a profile photo for your portfolio.",
+          "cameraPermission": "Take a profile photo for your portfolio.",
+          "microphonePermission": false
+        }
+      ],
+      "expo-font",
+      "expo-splash-screen"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d8f5606d-62a7-476e-b2a0-ff1fca51ed2b"
+      }
+    }
+  }
+}
