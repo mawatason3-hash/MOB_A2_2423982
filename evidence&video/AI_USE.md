@@ -1,6 +1,6 @@
 # AI Use Disclosure
 
-Claude and the VS Code AI chat were used to help with the portfolio's structure, screen implementation, styling, animation, persistence, and documentation. I reviewed the changes and tested the project with TypeScript checks and Android and web bundle exports.
+Claude used to help with the portfolio's structure, screen implementation, styling, animation, persistence, and documentation.
 
 AI assistance does not validate personal experience. I will verify every profile statement, skill rating, leadership period, project contribution, and contact detail before submission.
 
